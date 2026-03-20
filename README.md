@@ -26,7 +26,7 @@ Are Orlando Pirates missing more big chances **because they are creating more**,
 ---
 ![](https://github.com/Ddmnetso/Orlando-Pirates-vs-Mamelodi-Sundowns-Big-Chances-Project/blob/main/Screenshot%202026-03-20%20125310.png)
 ## Observations
- 
+![](https://github.com/Ddmnetso/Orlando-Pirates-vs-Mamelodi-Sundowns-Big-Chances-Project/blob/main/Screenshot%202026-03-20%20153938.png)
 ### Big Chance Creation
  
 Claims of Pirates missing a lot of big chances are supported, however the **rate at which these chances are being created has also grown**:
