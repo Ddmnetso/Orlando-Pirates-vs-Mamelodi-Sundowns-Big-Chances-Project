@@ -24,7 +24,7 @@ Are Orlando Pirates missing more big chances **because they are creating more**,
 | Big Chances Per Game | Average big chances created per match |
  
 ---
- 
+![](https://github.com/Ddmnetso/Orlando-Pirates-vs-Mamelodi-Sundowns-Big-Chances-Project/blob/main/Screenshot%202026-03-20%20125310.png)
 ## Observations
  
 ### Big Chance Creation
